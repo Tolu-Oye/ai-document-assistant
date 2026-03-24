@@ -4,10 +4,10 @@
 This project implements a Retrieval-Augmented Generation (RAG) system that allows users to query PDF documents using natural language.
 
 ## Features
-- PDF ingestion and text extraction
-- Text chunking with overlap
-- Semantic search using embeddings and FAISS
-- Context-aware answer generation using OpenAI LLM
+- Multi-turn chat interface
+- Semantic search using FAISS
+- Context-aware LLM responses
+- Source traceability (chunk references)
 
 ## Tech Stack
 - Python
